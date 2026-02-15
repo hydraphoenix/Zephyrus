@@ -1,12 +1,12 @@
-# NeuroAwareness: AI-Driven Workplace Well-being
+# Zephyrus: AI-Driven Workplace Well-being
 
-NeuroAwareness is a proactive mental health platform designed for the modern corporate environment. It moves beyond subjective surveys by using **Digital Phenotyping** to detect "Micro-Burnout" and provide real-time, data-driven interventions.
+Zephyrus is a proactive mental health platform designed for the modern corporate environment. It moves beyond subjective surveys by using **Digital Phenotyping** to detect "Micro-Burnout" and provide real-time, data-driven interventions.
 
 ## 🚀 The Problem
 Current employee well-being strategies rely on infrequent, subjective surveys prone to bias and "survey fatigue." This often fails to detect early signs of burnout, leading to decreased productivity and high turnover.
 
 ## 💡 The Solution
-NeuroAwareness utilizes **Passive Neuro-Aggregation** to analyze digital behavior—such as typing rhythms and app-switching frequency—to model cognitive agility and stress levels without compromising privacy.
+Zephyrus utilizes **Passive Neuro-Aggregation** to analyze digital behavior—such as typing rhythms and app-switching frequency—to model cognitive agility and stress levels without compromising privacy.
 
 ## ✨ Key Features
 - **Passive Data Acquisition**: Non-intrusive collection of digital phenotyping data.
